@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse Pro",
+    "category": "Accessories",
+    "price": 64,
+    "stock": 4,
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch Pro",
+    "category": "Electronics",
+    "price": 713,
+    "stock": 36,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "name": "Gaming Keyboard Pro",
+    "category": "Gaming",
+    "price": 457,
+    "stock": 73,
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "name": "Air Purifier Plus",
+    "category": "Home",
+    "price": 225,
+    "stock": 6,
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "name": "Notebook Pack Plus",
+    "category": "Office",
+    "price": 688,
+    "stock": 80,
+    "rating": 3.7
+  },
+  {
+    "id": 6,
+    "name": "Yoga Mat Basic",
+    "category": "Fitness",
+    "price": 621,
+    "stock": 83,
+    "rating": 3.6
+  },
+  {
+    "id": 7,
+    "name": "Canvas Backpack Pro",
+    "category": "Fashion",
+    "price": 761,
+    "stock": 59,
+    "rating": 5
+  },
+  {
+    "id": 8,
+    "name": "Bluetooth Speaker Basic",
+    "category": "Audio",
+    "price": 653,
+    "stock": 62,
+    "rating": 3.3
+  },
+  {
+    "id": 9,
+    "name": "USB-C Hub Lite",
+    "category": "Accessories",
+    "price": 1034,
+    "stock": 1,
+    "rating": 3.4
+  },
+  {
+    "id": 10,
+    "name": "Portable Monitor Plus",
+    "category": "Electronics",
+    "price": 1435,
+    "stock": 57,
+    "rating": 4.2
+  },
+  {
+    "id": 11,
+    "name": "Gaming Headset Plus",
+    "category": "Gaming",
+    "price": 455,
+    "stock": 21,
+    "rating": 4.4
+  },
+  {
+    "id": 12,
+    "name": "Coffee Grinder Pro",
+    "category": "Home",
+    "price": 732,
+    "stock": 4,
+    "rating": 4.4
+  },
+  {
+    "id": 13,
+    "name": "Whiteboard Kit Lite",
+    "category": "Office",
+    "price": 683,
+    "stock": 14,
+    "rating": 4.4
+  },
+  {
+    "id": 14,
+    "name": "Resistance Bands Lite",
+    "category": "Fitness",
+    "price": 398,
+    "stock": 4,
+    "rating": 3.6
+  },
+  {
+    "id": 15,
+    "name": "Minimal Wallet Max",
+    "category": "Fashion",
+    "price": 162,
+    "stock": 65,
+    "rating": 3.7
+  },
+  {
+    "id": 16,
+    "name": "Noise Cancelling Earbuds Plus",
+    "category": "Audio",
+    "price": 846,
+    "stock": 43,
+    "rating": 4.2
+  },
+  {
+    "id": 17,
+    "name": "Laptop Stand Plus",
+    "category": "Accessories",
+    "price": 1322,
+    "stock": 78,
+    "rating": 3.4
+  },
+  {
+    "id": 18,
+    "name": "Mini Projector Lite",
+    "category": "Electronics",
+    "price": 1417,
+    "stock": 78,
+    "rating": 4.2
+  },
+  {
+    "id": 19,
+    "name": "Controller Pad Plus",
+    "category": "Gaming",
+    "price": 482,
+    "stock": 65,
+    "rating": 4.5
+  },
+  {
+    "id": 20,
+    "name": "Smart Scale Pro",
+    "category": "Home",
+    "price": 834,
+    "stock": 15,
+    "rating": 4.1
+  },
+  {
+    "id": 21,
+    "name": "Desk Organizer Lite",
+    "category": "Office",
+    "price": 1038,
+    "stock": 1,
+    "rating": 4.6
+  },
+  {
+    "id": 22,
+    "name": "Jump Rope Plus",
+    "category": "Fitness",
+    "price": 649,
+    "stock": 10,
+    "rating": 4.9
+  },
+  {
+    "id": 23,
+    "name": "Running Cap Lite",
+    "category": "Fashion",
+    "price": 638,
+    "stock": 5,
+    "rating": 4.9
+  },
+  {
+    "id": 24,
+    "name": "Podcast Microphone Lite",
+    "category": "Audio",
+    "price": 83,
+    "stock": 22,
+    "rating": 4.8
+  },
+  {
+    "id": 25,
+    "name": "Keyboard Cover Pro",
+    "category": "Accessories",
+    "price": 207,
+    "stock": 21,
+    "rating": 5
+  },
+  {
+    "id": 26,
+    "name": "Action Camera Plus",
+    "category": "Electronics",
+    "price": 1098,
+    "stock": 27,
+    "rating": 4.1
+  },
+  {
+    "id": 27,
+    "name": "RGB Mousepad Pro",
+    "category": "Gaming",
+    "price": 1458,
+    "stock": 71,
+    "rating": 4.5
+  },
+  {
+    "id": 28,
+    "name": "LED Strip Max",
+    "category": "Home",
+    "price": 521,
+    "stock": 47,
+    "rating": 4.6
+  },
+  {
+    "id": 29,
+    "name": "Ergonomic Chair Pad Pro",
+    "category": "Office",
+    "price": 138,
+    "stock": 18,
+    "rating": 3.9
+  },
+  {
+    "id": 30,
+    "name": "Fitness Tracker Pro",
+    "category": "Fitness",
+    "price": 1099,
+    "stock": 76,
+    "rating": 3.9
+  },
+  {
+    "id": 31,
+    "name": "Cotton Hoodie Lite",
+    "category": "Fashion",
+    "price": 1124,
+    "stock": 71,
+    "rating": 4.7
+  },
+  {
+    "id": 32,
+    "name": "Soundbar Mini Lite",
+    "category": "Audio",
+    "price": 903,
+    "stock": 79,
+    "rating": 5
+  },
+  {
+    "id": 33,
+    "name": "Phone Tripod Plus",
+    "category": "Accessories",
+    "price": 257,
+    "stock": 17,
+    "rating": 4.5
+  },
+  {
+    "id": 34,
+    "name": "E-reader Max",
+    "category": "Electronics",
+    "price": 215,
+    "stock": 4,
+    "rating": 4.3
+  },
+  {
+    "id": 35,
+    "name": "Streaming Mic Plus",
+    "category": "Gaming",
+    "price": 1059,
+    "stock": 69,
+    "rating": 4.9
+  },
+  {
+    "id": 36,
+    "name": "Desk Fan Pro",
+    "category": "Home",
+    "price": 1258,
+    "stock": 14,
+    "rating": 3.4
+  },
+  {
+    "id": 37,
+    "name": "Monitor Arm Lite",
+    "category": "Office",
+    "price": 1104,
+    "stock": 79,
+    "rating": 3.5
+  },
+  {
+    "id": 38,
+    "name": "Foam Roller Max",
+    "category": "Fitness",
+    "price": 771,
+    "stock": 69,
+    "rating": 4
+  },
+  {
+    "id": 39,
+    "name": "Urban Sneakers Plus",
+    "category": "Fashion",
+    "price": 217,
+    "stock": 5,
+    "rating": 3.3
+  },
+  {
+    "id": 40,
+    "name": "Studio Headphones Lite",
+    "category": "Audio",
+    "price": 71,
+    "stock": 60,
+    "rating": 4.1
+  },
+  {
+    "id": 41,
+    "name": "Cable Organizer Lite",
+    "category": "Accessories",
+    "price": 72,
+    "stock": 36,
+    "rating": 3.4
+  },
+  {
+    "id": 42,
+    "name": "Smart Plug Plus",
+    "category": "Electronics",
+    "price": 702,
+    "stock": 46,
+    "rating": 3.5
+  },
+  {
+    "id": 43,
+    "name": "Mechanical Switch Set Max",
+    "category": "Gaming",
+    "price": 975,
+    "stock": 3,
+    "rating": 5
+  },
+  {
+    "id": 44,
+    "name": "Storage Box Max",
+    "category": "Home",
+    "price": 182,
+    "stock": 45,
+    "rating": 4.3
+  },
+  {
+    "id": 45,
+    "name": "Document Scanner Max",
+    "category": "Office",
+    "price": 193,
+    "stock": 4,
+    "rating": 4.2
+  },
+  {
+    "id": 46,
+    "name": "Gym Bag Lite",
+    "category": "Fitness",
+    "price": 886,
+    "stock": 2,
+    "rating": 3.9
+  },
+  {
+    "id": 47,
+    "name": "Travel Pouch Max",
+    "category": "Fashion",
+    "price": 522,
+    "stock": 15,
+    "rating": 3.5
+  },
+  {
+    "id": 48,
+    "name": "USB Audio Interface Basic",
+    "category": "Audio",
+    "price": 172,
+    "stock": 80,
+    "rating": 4.4
+  },
+  {
+    "id": 49,
+    "name": "Tablet Sleeve Lite",
+    "category": "Accessories",
+    "price": 88,
+    "stock": 1,
+    "rating": 4.7
+  },
+  {
+    "id": 50,
+    "name": "WiFi Router Lite",
+    "category": "Electronics",
+    "price": 892,
+    "stock": 12,
+    "rating": 4.5
+  },
+  {
+    "id": 51,
+    "name": "Gaming Chair Cushion Plus",
+    "category": "Gaming",
+    "price": 1102,
+    "stock": 65,
+    "rating": 4.8
+  },
+  {
+    "id": 52,
+    "name": "Water Bottle Plus",
+    "category": "Home",
+    "price": 253,
+    "stock": 32,
+    "rating": 3.5
+  },
+  {
+    "id": 53,
+    "name": "Label Printer Basic",
+    "category": "Office",
+    "price": 1296,
+    "stock": 72,
+    "rating": 3.3
+  },
+  {
+    "id": 54,
+    "name": "Training Gloves Pro",
+    "category": "Fitness",
+    "price": 513,
+    "stock": 28,
+    "rating": 4
+  },
+  {
+    "id": 55,
+    "name": "Classic Belt Basic",
+    "category": "Fashion",
+    "price": 1404,
+    "stock": 57,
+    "rating": 3.5
+  },
+  {
+    "id": 56,
+    "name": "Clip Microphone Basic",
+    "category": "Audio",
+    "price": 914,
+    "stock": 1,
+    "rating": 4
+  },
+  {
+    "id": 57,
+    "name": "Power Bank Pro",
+    "category": "Accessories",
+    "price": 1126,
+    "stock": 45,
+    "rating": 4.3
+  },
+  {
+    "id": 58,
+    "name": "Desk Lamp Pro",
+    "category": "Electronics",
+    "price": 1314,
+    "stock": 34,
+    "rating": 4.8
+  },
+  {
+    "id": 59,
+    "name": "Capture Card Max",
+    "category": "Gaming",
+    "price": 1000,
+    "stock": 20,
+    "rating": 3.3
+  },
+  {
+    "id": 60,
+    "name": "Reading Light Plus",
+    "category": "Home",
+    "price": 104,
+    "stock": 54,
+    "rating": 3.6
+  }
+]
