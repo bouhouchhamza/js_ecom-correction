@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "fullName": "Salma Karimi",
+    "city": "Casablanca",
+    "segment": "vip"
+  },
+  {
+    "id": 2,
+    "fullName": "Anas Karimi",
+    "city": "Rabat",
+    "segment": "regular"
+  },
+  {
+    "id": 3,
+    "fullName": "Hiba Tazi",
+    "city": "Tanger",
+    "segment": "new"
+  },
+  {
+    "id": 4,
+    "fullName": "Hiba Lahlou",
+    "city": "Marrakech",
+    "segment": "new"
+  },
+  {
+    "id": 5,
+    "fullName": "Hamza Ouazzani",
+    "city": "Fes",
+    "segment": "regular"
+  },
+  {
+    "id": 6,
+    "fullName": "Mehdi Lahlou",
+    "city": "Agadir",
+    "segment": "new"
+  },
+  {
+    "id": 7,
+    "fullName": "Aya Karimi",
+    "city": "Oujda",
+    "segment": "vip"
+  },
+  {
+    "id": 8,
+    "fullName": "Omar El Fassi",
+    "city": "Tetouan",
+    "segment": "vip"
+  },
+  {
+    "id": 9,
+    "fullName": "Hamza Cherkaoui",
+    "city": "Casablanca",
+    "segment": "vip"
+  },
+  {
+    "id": 10,
+    "fullName": "Anas Lahlou",
+    "city": "Rabat",
+    "segment": "vip"
+  },
+  {
+    "id": 11,
+    "fullName": "Youssef Slaoui",
+    "city": "Tanger",
+    "segment": "regular"
+  },
+  {
+    "id": 12,
+    "fullName": "Meryem Alaoui",
+    "city": "Marrakech",
+    "segment": "regular"
+  },
+  {
+    "id": 13,
+    "fullName": "Omar Berrada",
+    "city": "Fes",
+    "segment": "vip"
+  },
+  {
+    "id": 14,
+    "fullName": "Walid El Fassi",
+    "city": "Agadir",
+    "segment": "vip"
+  },
+  {
+    "id": 15,
+    "fullName": "Mehdi Idrissi",
+    "city": "Oujda",
+    "segment": "regular"
+  },
+  {
+    "id": 16,
+    "fullName": "Hiba Tazi",
+    "city": "Tetouan",
+    "segment": "new"
+  },
+  {
+    "id": 17,
+    "fullName": "Nadia Idrissi",
+    "city": "Casablanca",
+    "segment": "new"
+  },
+  {
+    "id": 18,
+    "fullName": "Meryem Slaoui",
+    "city": "Rabat",
+    "segment": "new"
+  },
+  {
+    "id": 19,
+    "fullName": "Anas Karimi",
+    "city": "Tanger",
+    "segment": "vip"
+  },
+  {
+    "id": 20,
+    "fullName": "Omar El Fassi",
+    "city": "Marrakech",
+    "segment": "vip"
+  },
+  {
+    "id": 21,
+    "fullName": "Anas Bennani",
+    "city": "Fes",
+    "segment": "vip"
+  },
+  {
+    "id": 22,
+    "fullName": "Salma Cherkaoui",
+    "city": "Agadir",
+    "segment": "new"
+  },
+  {
+    "id": 23,
+    "fullName": "Meryem Tazi",
+    "city": "Oujda",
+    "segment": "new"
+  },
+  {
+    "id": 24,
+    "fullName": "Youssef Alaoui",
+    "city": "Tetouan",
+    "segment": "new"
+  },
+  {
+    "id": 25,
+    "fullName": "Meryem Ziani",
+    "city": "Casablanca",
+    "segment": "regular"
+  },
+  {
+    "id": 26,
+    "fullName": "Amine Lahlou",
+    "city": "Rabat",
+    "segment": "vip"
+  },
+  {
+    "id": 27,
+    "fullName": "Youssef Tazi",
+    "city": "Tanger",
+    "segment": "new"
+  },
+  {
+    "id": 28,
+    "fullName": "Yassine Alaoui",
+    "city": "Marrakech",
+    "segment": "vip"
+  },
+  {
+    "id": 29,
+    "fullName": "Sara Ouazzani",
+    "city": "Fes",
+    "segment": "vip"
+  },
+  {
+    "id": 30,
+    "fullName": "Amine Tazi",
+    "city": "Agadir",
+    "segment": "new"
+  },
+  {
+    "id": 31,
+    "fullName": "Imane El Fassi",
+    "city": "Oujda",
+    "segment": "vip"
+  },
+  {
+    "id": 32,
+    "fullName": "Youssef Cherkaoui",
+    "city": "Tetouan",
+    "segment": "vip"
+  },
+  {
+    "id": 33,
+    "fullName": "Meryem Alaoui",
+    "city": "Casablanca",
+    "segment": "new"
+  },
+  {
+    "id": 34,
+    "fullName": "Anas Tazi",
+    "city": "Rabat",
+    "segment": "vip"
+  },
+  {
+    "id": 35,
+    "fullName": "Anas Mansouri",
+    "city": "Tanger",
+    "segment": "vip"
+  }
+]
